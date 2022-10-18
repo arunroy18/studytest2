@@ -1,0 +1,9 @@
+{
+	"name": "studytest2",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "93671edc-51dc-4960-9705-46a4f33a71be",
+		"tenantId": "36bc4912-2275-4b2b-a10f-9cd2a3053785"
+	}
+}
